@@ -1,0 +1,280 @@
+@media screen and (max-width: 700px) {
+
+  .hero .hero-img .img2,
+  .hero .hero-img .img3 {
+
+    width: 70px;
+    height: 70px;
+  }
+
+  .hero .hero-img .img2 img,
+  .img3 img {
+    width: 20% !important;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .hero .text {
+    margin-top: 10px;
+    width: 100% !important;
+  }
+
+  .hero .text p {
+    font-size: 18px;
+
+  }
+
+  .hero .text h1 {
+    font-size: 2rem !important;
+
+  }
+
+  .hero .hero-img .img2,
+  .hero .hero-img .img3 {
+
+    width: 50px !important;
+    height: 50px !important;
+
+  }
+
+}
+
+@media screen and (max-width: 460px) {
+  .hero .text h1 {
+    font-size: 1.5rem !important;
+
+  }
+
+  .hero .text p {
+    font-size: 15px !important;
+  }
+
+  .services {
+
+    padding: 50px 20px !important;
+
+  }
+
+  .features {
+
+    padding: 50px 20px !important;
+
+  }
+}
+
+
+
+@media screen and (max-width: 500px) {
+  .hero .hero-img .img2 {
+
+    left: 0px;
+  }
+
+  .hero .hero-img .img3 {
+    bottom: 280px;
+    right: 0px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .hero .hero-img .box {
+
+
+
+    bottom: 20px !important;
+
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .about .about-text {
+
+    width: 90% !important;
+
+  }
+
+  .feature-text {
+    flex-direction: column;
+    align-items: center !important;
+    justify-content: center !important;
+
+
+  }
+
+  .feature-text .f-line {
+    width: 100% !important;
+    height: 1px !important;
+    background-color: #BFF747;
+    margin: 20px 15px !important;
+  }
+}
+
+
+
+@media screen and (max-width: 500px) {
+  .about .about-text {
+
+    width: 100% !important;
+
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .about .about-content .about-box1 h2 {
+
+    font-size: 40px !important;
+
+
+  }
+
+  .features .feature-heading h2 {
+
+    font-size: 30px !important;
+
+  }
+
+  .pricing-heading h2 {
+    font-size: 30px !important;
+
+  }
+
+  .hero {
+
+    padding: 10px !important;
+
+  }
+
+  .social .social-main .social-heading h2 {
+
+    font-size: 30px !important;
+  }
+
+  .work .work-content .work-heading h2 {
+    font-size: 30px !important;
+
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .about .about-content .about-box1 h2 {
+
+    font-size: 25px !important;
+
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .about .about-content .about-box3 {
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .about .about-content .about-box3 .box3-box {
+
+
+    width: 100% !important;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .about .about-content .about-box4 {
+
+    flex-direction: column;
+    margin: auto;
+    gap: 10px;
+    width: 100%;
+    max-width: 100%;
+    margin: auto;
+
+
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .services .services-main {
+
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .social .social-main {
+
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .testimonial-main {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+}
+
+@media screen and (max-width: 600px) {
+  .services .services-main .services-heading h2 {
+
+    font-size: 30px !important;
+
+
+
+
+  }
+
+  .faq-section h2 {
+    font-size: 30px !important;
+  }
+
+  .why-choose-img {
+    width: 60% !important;
+  }
+
+  .brand .brand-heading h2 {
+    font-size: 30px !important;
+
+
+  }
+
+  .testimonial-main h2 {
+    font-size: 30px !important;
+
+  }
+
+}
+
+@media screen and (max-width: 550px) {
+  .about .about-text span {
+    font-size: 1.5rem !important;
+
+  }
+
+  .services .services-main {
+
+    margin: auto;
+    width: 100%;
+
+  }
+
+  .services .services-box {
+
+    padding: 10px !important;
+    flex-direction: column !important;
+
+
+
+
+  }
+
+  .why-choose-images {
+    margin-top: 0px !important;
+
+  }
+
+  .brand {
+
+    padding: 0px !important;
+
+
+  }
+
+
+}
